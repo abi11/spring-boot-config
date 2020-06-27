@@ -1,0 +1,11 @@
+server.port=8039
+my.greeting=Helo Abhi
+app.name=myApp
+app.description=Welcome to ${app.name}
+mylist.values=1,2,3
+dbValues={connectionString: 'http://abc...',userName: 'foo',password: 'pass'}
+db.host=127.0.0.1
+db.port=1300
+db.user=dbuser
+db.password=pass
+management.endpoints.web.exposure.include=*
